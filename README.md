@@ -5,7 +5,7 @@ Building crypto-native products and internet businesses from Mumbai.
 ## Currently Building
 
 - **[Solchat.fun](https://solchat.fun)** — Pay-to-talk global chat on Solana. Tag @ai, get a public oracle response. NULL SIGIL NFT = free chat forever.
-- **Mirha & Co** — Curated collectible object brand.
+- **Mirha & Co** —  Beauty and Wellness Blog brand.
 
 ## Background
 
