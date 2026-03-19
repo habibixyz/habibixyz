@@ -33,7 +33,7 @@ Building crypto-native products and internet businesses from Mumbai.
 |---|---|---|
 | [Solchat.fun](https://solchat.fun) | Pay-to-talk AI chat on Solana | 🟢 Live |
 | NULL SIGIL | Solana NFT access pass for Solchat | 🟡 Minting Soon |
-| Mirha & Co | Collectible object brand | 🔨 Building |
+| Mirha & Co | Beauty and Wellness Blog | 🔨 Building |
 
 ## Connect
 
