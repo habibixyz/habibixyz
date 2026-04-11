@@ -11,8 +11,6 @@ Building crypto-native products and internet businesses from Mumbai.
 A decentralized, pay-to-talk chat protocol on Solana.
 
 * 💸 Pay-to-message global chat
-* 🤖 Tag `@ai` to receive public oracle responses
-* 🧿 NULL SIGIL NFT holders get free messaging forever
 * ⚡ Real-time messaging + wallet-based identity
 
 ---
