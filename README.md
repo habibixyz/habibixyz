@@ -1,47 +1,101 @@
-# Tanvir Khan
+# 👋 Tanvir Khan
 
 Building crypto-native products and internet businesses from Mumbai.
 
-## Currently Building
+---
 
-- **[Solchat.fun](https://solchat.fun)** — Pay-to-talk global chat on Solana. Tag @ai, get a public oracle response. NULL SIGIL NFT = free chat forever.
-- **Mirha & Co** —  Beauty and Wellness Blog brand.
+## 🚀 Currently Building
 
-## Background
+### 💬 [Solchat.fun](https://solchat.fun)
 
-8+ years in retail buying & supply chain. Transitioned to full-time product development across crypto and internet products. Building in public, shipping daily.
+A decentralized, pay-to-talk chat protocol on Solana.
 
-## Tech Stack
-
-- React + TypeScript + Vite
-- Solana + Wallet Adapter + Metaplex
-- Supabase (Postgres + Realtime + Edge Functions)
-- Groq (Llama 3.3) for AI
-- Helius API for on-chain data
-- Vercel for deployment
-
-## Currently Learning
-
-- Solana program development
-- Real-time systems at scale
-- Product-led growth
-- On-chain identity systems
-
-## Projects
-
-| Project | Description | Status |
-|---|---|---|
-| [Solchat.fun](https://solchat.fun) | Pay-to-talk AI chat on Solana | 🟢 Live |
-| Mirha & Co | Beauty and Wellness Blog | 🔨 Building |
-
-## Connect
-
-- Twitter: [@ritmir11](https://twitter.com/ritmir11)
-- Solchat: [solchat.fun](https://solchat.fun)
-- Location: Mumbai, India
+* 💸 Pay-to-message global chat
+* 🤖 Tag `@ai` to receive public oracle responses
+* 🧿 NULL SIGIL NFT holders get free messaging forever
+* ⚡ Real-time messaging + wallet-based identity
 
 ---
 
-*Shipping consistently. Building long-term. Learning in public.*
+### 🌿 Mirha & Co
 
-⟁
+A beauty & wellness content brand focused on modern skincare, routines, and product discovery.
+
+* 🧴 Skincare-first content platform
+* 📖 Blog + product storytelling
+* 🎯 Built for organic growth & brand expansion
+
+---
+
+## 🧠 Background
+
+8+ years in retail buying & supply chain, with hands-on experience in operations, inventory strategy, and vendor management.
+
+Transitioned into full-time product development — now focused on building and shipping Web3 + internet-first products.
+
+> Building in public. Shipping fast. Learning continuously.
+
+---
+
+## ⚙️ Tech Stack
+
+**Frontend**
+
+* React + TypeScript + Vite
+* Tailwind CSS
+
+**Web3**
+
+* Solana + Wallet Adapter
+* Metaplex (NFTs & identity)
+
+**Backend & Infra**
+
+* Supabase (Postgres, Realtime, Edge Functions)
+* Helius API (on-chain data)
+
+**AI**
+
+* Groq (LLaMA 3.3)
+
+**Deployment**
+
+* Vercel
+
+---
+
+## 🧪 Currently Exploring
+
+* Solana program (smart contract) development
+* Real-time systems & chat architecture
+* Product-led growth & distribution loops
+* On-chain identity & social primitives
+
+---
+
+## 🛠 Projects
+
+| Project                            | Description                           | Status      |
+| ---------------------------------- | ------------------------------------- | ----------- |
+| [Solchat.fun](https://solchat.fun) | Web3 chat protocol with AI + payments | 🟢 Live     |
+| Mirha & Co                         | Beauty & wellness content platform    | 🔨 Building |
+
+---
+
+## 🌐 Connect
+
+* 🐦 Twitter: https://twitter.com/ritmir11
+* 💬 Product: https://solchat.fun
+* 📍 Location: Mumbai, India
+
+---
+
+## ⚡ Philosophy
+
+* Ship fast > perfect later
+* Build for the internet, not resumes
+* Learn by doing, not consuming
+
+---
+
+**⟁ Shipping consistently. Building long-term.**
