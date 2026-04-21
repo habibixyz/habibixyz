@@ -76,7 +76,7 @@ Transitioned into full-time product development — now focused on building and 
 | Project                            | Description                           | Status      |
 | ---------------------------------- | ------------------------------------- | ----------- |
 | [Solchat.fun](https://solchat.fun) | Web3 chat protocol with AI + payments | 🟢 Live     |
-| Mirha & Co                         | Beauty & wellness content platform    | 🔨 Building |
+| Mirha & Co                         | Beauty & wellness content platform    | 🟢 Live |
 
 ---
 
