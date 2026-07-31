@@ -1,111 +1,126 @@
-# 👋 Tanvir Khan
+# Tanvir Khan
 
-Building crypto-native products, AI systems, and internet businesses from Mumbai.
-
----
-
-## 🚀 Currently Building
-
-### 🧬 VYRM : vyrm.space
-
-A living on-chain ecosystem exploring AI agents, autonomous economies, and crypto-native digital organisms.
-
-* ⚡ AI-powered ecosystem primitives
-* 🌐 Web3-native identity + interaction systems
-* 🧠 Experimental autonomous agent infrastructure
-* 🔮 Focused on emergent behavior, coordination, and internet culture
+> Building AI products, crypto-native applications, and internet businesses.
 
 ---
 
-### 💬 [Solchat.fun](https://solchat.fun)
+## About
 
-A decentralized, pay-to-talk chat protocol on Solana Labs.
+I'm a full-stack developer based in Mumbai, building products across AI, Web3, and consumer internet.
 
-* 💸 Pay-to-message global chat
-* ⚡ Real-time messaging + wallet-based identity
-* 🤖 Exploring AI-integrated social experiences
+After 8+ years in retail buying and supply chain, I transitioned into software engineering and now focus on shipping products, experimenting with new technologies, and learning by building.
 
 ---
 
-### 🌿 [Mirha & Co](https://www.mirhaandco.com)
+## Featured Projects
 
-A beauty & wellness content brand focused on modern skincare, routines, and product discovery.
+### Mirha & Co
+**https://mirhaandco.com**
 
-* 🧴 Skincare-first content platform
-* 📖 Blog + product storytelling
-* 🎯 Built for organic growth & brand expansion
+An AI-powered beauty and wellness platform focused on skincare education, product discovery, and intelligent recommendations.
 
----
-
-## 🧠 Background
-
-8+ years in retail buying & supply chain, with hands-on experience in operations, inventory strategy, and vendor management.
-
-Transitioned into full-time product development — now focused on building and shipping Web3, AI, and internet-first products.
-
-> Building in public. Shipping fast. Learning continuously.
+**Built with**
+- Next.js
+- TypeScript
+- Supabase
+- AI APIs
+- Tailwind CSS
 
 ---
 
-## ⚙️ Tech Stack
+### Solchat
+**https://solchat.fun**
 
-### Frontend
+A decentralized communication protocol on Solana that enables wallet-based identity and pay-to-message conversations.
 
-* React + TypeScript + Vite
-* Tailwind CSS
-* Next.js
-
-### Web3
-
-* Solana + Wallet Adapter
-* Smart contracts / on-chain systems
-* Metaplex (NFTs & identity)
-
-### Backend & Infra
-
-* Supabase (Postgres, Realtime, Edge Functions)
-* Helius API (on-chain data)
-* Node.js
-
-### AI
-
-* Groq (LLaMA)
-* AI agents & workflow systems
-* Experimental autonomous architectures
-
-### Deployment
-
-* Vercel
-* Cloudflare
+**Features**
+- Real-time messaging
+- Wallet authentication
+- Crypto-native social layer
+- AI integrations
 
 ---
 
-## 🧪 Currently Exploring
+### GoalRush
+**https://goalrush.fun**
 
-* AI agent ecosystems & autonomous coordination
-* Solana program (smart contract) development
-* Real-time systems & distributed infrastructure
-* Crypto market intelligence tools
-* On-chain identity & social primitives
-* Product-led growth & internet distribution
+A football prediction platform where users compete, earn rewards, and participate in blockchain-powered prediction markets.
 
-## 🌐 Connect
-
-* 🐦 Twitter: [@ritmir11](https://twitter.com/ritmir11
-* 💬 Product: [Solchat.fun](https://solchat.fun
-* 🌐 Ecosystem: [VYRM](https://vyrm.space
-* 📍 Location: Mumbai, India
+**Built with**
+- React
+- Solana / Robinhood Chain
+- Supabase
+- Real-time infrastructure
 
 ---
 
-## ⚡ Philosophy
+### VYRM
+**https://vyrm.space**
 
-* Ship fast > perfect later
-* Build for the internet, not resumes
-* Learn by doing, not consuming
-* Experiment relentlessly
-* Distribution matters as much as product
+An experimental ecosystem exploring autonomous AI agents, crypto-native economies, and on-chain digital organisms.
+
+Current research includes:
+
+- Multi-agent systems
+- Autonomous coordination
+- On-chain identity
+- AI infrastructure
 
 ---
 
-**⟁ Shipping consistently. Building long-term.**
+## Tech Stack
+
+**Languages**
+
+TypeScript • JavaScript • SQL
+
+**Frontend**
+
+React • Next.js • Vite • Tailwind CSS
+
+**Backend**
+
+Node.js • Supabase • PostgreSQL • Edge Functions
+
+**AI**
+
+OpenAI • Groq • Claude • AI Agents • RAG • Workflow Automation
+
+**Web3**
+
+Solana • Wallet Adapter • Metaplex • Helius • Smart Contracts
+
+**Infrastructure**
+
+Vercel • Cloudflare • GitHub Actions
+
+---
+
+## Currently Exploring
+
+- AI agent ecosystems
+- Solana program development
+- Distributed systems
+- Consumer AI products
+- Crypto market intelligence
+- Product-led growth
+
+---
+
+## Connect
+
+Website: https://mirhaandco.com
+
+X: https://twitter.com/ritmir11
+
+GitHub: https://github.com/habibixyz
+
+Location: Mumbai, India
+
+---
+
+## Philosophy
+
+> Build products. Ship often. Iterate relentlessly.
+
+The best way to learn is by building real products, talking to users, and improving every day.
