@@ -38,6 +38,7 @@ A decentralized communication protocol on Solana that enables wallet-based ident
 - Wallet authentication
 - Crypto-native social layer
 - AI integrations
+- Solana Chain
 
 ---
 
@@ -48,7 +49,7 @@ A football prediction platform where users compete, earn rewards, and participat
 
 **Built with**
 - React
-- Solana / Robinhood Chain
+- X Layer Chain
 - Supabase
 - Real-time infrastructure
 
