@@ -58,14 +58,7 @@ A football prediction platform where users compete, earn rewards, and participat
 ### VYRM
 **https://vyrm.space**
 
-An experimental ecosystem exploring autonomous AI agents, crypto-native economies, and on-chain digital organisms.
-
-Current research includes:
-
-- Multi-agent systems
-- Autonomous coordination
-- On-chain identity
-- AI infrastructure
+Token Launcher on Robinhood Chain
 
 ---
 
