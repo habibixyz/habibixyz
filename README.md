@@ -62,6 +62,15 @@ Token Launcher on Robinhood Chain
 
 ---
 
+## Absconded : A builders evolution
+**https://absconded-book.vercel.app**
+
+This is not a blog. It is not a portfolio. It is a record of someone mid-becoming — manuscripts written in the hours between the life that was expected and the one being built instead. Fifteen stories. Real cities. Fictional names. The gap between the two is where the truth lives.
+
+Built with JavaScript (JSX) and Next.js 14 — static export, no backend, no database. Styled with Vanilla CSS and Tailwind utilities, typeset in Lora + Inter from Google Fonts. Deployed on Vercel with live analytics. Reading progress persists via localStorage — no accounts, no tracking, no friction.
+
+---
+
 ## Tech Stack
 
 **Languages**
