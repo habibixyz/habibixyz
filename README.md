@@ -55,15 +55,8 @@ A football prediction platform where users compete, earn rewards, and participat
 
 ---
 
-### VYRM
-**https://vyrm.space**
-
-Token Launcher on Robinhood Chain
-
----
-
 ## Absconded : A builders evolution
-**https://absconded-book.vercel.app**
+**https://vyrm.space***
 
 This is not a blog. It is not a portfolio. It is a record of someone mid-becoming — manuscripts written in the hours between the life that was expected and the one being built instead. Fifteen stories. Real cities. Fictional names. The gap between the two is where the truth lives.
 
