@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- Native Animated Header Banner -->
-  <a href="https://github.com/habibixyz">
-    <img src="https://raw.githubusercontent.com/habibixyz/habibixyz/main/header.svg" width="100%" alt="Tanvir Khan - Header Banner" />
-  </a>
+  <h1>Tanvir Khan</h1>
+  <p><strong>AI-Native Full-Stack Engineer &bull; Founder @ Mirha &amp; Co. &bull; Mumbai, India</strong></p>
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/habibixyz">
@@ -176,10 +174,5 @@ Web3:         Solana, Web3.js, EVM, Smart Contracts, Prediction Markets
   <a href="https://github.com/habibixyz">
     <img src="https://img.shields.io/badge/GitHub-habibixyz-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <br/><br/>
-
-  <!-- Native Animated Footer Banner -->
-  <img src="https://raw.githubusercontent.com/habibixyz/habibixyz/main/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
