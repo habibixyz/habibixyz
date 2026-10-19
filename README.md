@@ -1,23 +1,16 @@
-<div align="center">
+# Tanvir Khan
 
-  <h1>Tanvir Khan</h1>
-  <p><strong>AI-Native Full-Stack Engineer &bull; Founder @ Mirha &amp; Co. &bull; Mumbai, India</strong></p>
-
-  <!-- Animated Typing SVG -->
+<p align="center">
   <a href="https://github.com/habibixyz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=650&height=50&lines=AI-Native+Full+Stack+Engineer;Founder+%40+Mirha+%26+Co.;Building+with+Next.js%2C+TypeScript+%26+AI;Decentralized+Protocols+%26+Real-Time+Systems;Shipping+production+software+daily" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=AI-Native+Full+Stack+Engineer;Founder+at+Mirha+and+Co;Building+with+Next.js+TypeScript+and+AI;Decentralized+Protocols+and+Real-Time+Systems;Shipping+production+software+daily" alt="Typing SVG" />
   </a>
+</p>
 
-  <br/>
-
-  <!-- Links -->
-  <p align="center">
-    <a href="https://mirhaandco.com"><img src="https://img.shields.io/badge/Founder-Mirha_%26_Co-8B5CF6?style=for-the-badge&logoColor=white" alt="Mirha & Co" /></a>
-    <a href="https://vyrm.space"><img src="https://img.shields.io/badge/Writing-vyrm.space-3B82F6?style=for-the-badge&logoColor=white" alt="Vyrm" /></a>
-    <a href="https://github.com/habibixyz"><img src="https://img.shields.io/badge/GitHub-habibixyz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-
-</div>
+<p align="center">
+  <a href="https://mirhaandco.com"><img src="https://img.shields.io/badge/Founder-Mirha_%26_Co-8B5CF6?style=for-the-badge&logoColor=white" alt="Mirha & Co" /></a>
+  <a href="https://vyrm.space"><img src="https://img.shields.io/badge/Writing-vyrm.space-3B82F6?style=for-the-badge&logoColor=white" alt="Vyrm" /></a>
+  <a href="https://github.com/habibixyz"><img src="https://img.shields.io/badge/GitHub-habibixyz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
