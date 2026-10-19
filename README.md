@@ -1,122 +1,234 @@
-# Tanvir Khan
+<div align="center">
 
-> Building AI products, crypto-native applications, and internet businesses.
+  <!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,12,6,0,24&height=220&section=header&text=Tanvir%20Khan&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI-Native%20Full%20Stack%20Engineer%20%7C%20Founder%20%40%20Mirha%20%26%20Co.&descSize=19&descAlignY=62" width="100%" alt="Tanvir Khan - Header Banner" />
 
----
+  <!-- Animated Typing SVG -->
+  <a href="https://github.com/habibixyz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=650&height=50&lines=AI-Native+Full+Stack+Engineer;Founder+%40+Mirha+%26+Co.;Building+with+Next.js%2C+TypeScript+%26+AI;Decentralized+Protocols+%26+Real-Time+Systems;Shipping+production+software+daily" alt="Typing SVG" />
+  </a>
 
-## About
+  <br/>
 
-I'm a full-stack developer based in Mumbai, building products across AI, Web3, and consumer internet.
+  <!-- Links -->
+  <p align="center">
+    <a href="https://mirhaandco.com"><img src="https://img.shields.io/badge/Founder-Mirha_%26_Co-8B5CF6?style=for-the-badge&logoColor=white" alt="Mirha & Co" /></a>
+    <a href="https://vyrm.space"><img src="https://img.shields.io/badge/Writing-vyrm.space-3B82F6?style=for-the-badge&logoColor=white" alt="Vyrm" /></a>
+    <a href="https://github.com/habibixyz"><img src="https://img.shields.io/badge/GitHub-habibixyz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 
-After 8+ years in retail buying and supply chain, I transitioned into software engineering and now focus on shipping products, experimenting with new technologies, and learning by building.
-
----
-
-## Featured Projects
-
-### Mirha & Co
-**https://mirhaandco.com**
-
-An AI-powered beauty and wellness platform focused on skincare education, product discovery, and intelligent recommendations.
-
-**Built with**
-- Next.js
-- TypeScript
-- Supabase
-- AI APIs
-- Tailwind CSS
+</div>
 
 ---
 
-### Solchat
-**https://solchat.fun**
+### About
 
-A decentralized communication protocol on Solana that enables wallet-based identity and pay-to-message conversations.
+```yaml
+identity:
+  name: Tanvir Khan
+  handle: @habibixyz
+  location: Mumbai, India
+  role: AI-Native Full-Stack Engineer & Product Builder
+  venture: Founder @ Mirha & Co.
+  background: 8+ years in retail buying and supply chain -> Full-Stack Software Engineering
+  focus:
+    - Autonomous AI Agents & Real-Time Intelligence
+    - Scalable Next.js and TypeScript Web Architectures
+    - High-throughput Solana & Crypto-native protocols
+```
 
-**Features**
-- Real-time messaging
-- Wallet authentication
-- Crypto-native social layer
-- AI integrations
-- Solana Chain
-
----
-
-### GoalRush
-**https://goalrush.fun**
-
-A football prediction platform where users compete, earn rewards, and participate in blockchain-powered prediction markets.
-
-**Built with**
-- React
-- X Layer Chain
-- Supabase
-- Real-time infrastructure
+> "This is not a blog. It is not a portfolio. It is a record of someone mid-becoming — manuscripts written in the hours between the life that was expected and the one being built."  
+> — [vyrm.space](https://vyrm.space)
 
 ---
 
-## Absconded : A builders evolution
-**https://vyrm.space***
+### Tech Stack
 
-This is not a blog. It is not a portfolio. It is a record of someone mid-becoming — manuscripts written in the hours between the life that was expected and the one being built instead. Fifteen stories. Real cities. Fictional names. The gap between the two is where the truth lives.
+<div align="center">
 
-Built with JavaScript (JSX) and Next.js 14 — static export, no backend, no database. Styled with Vanilla CSS and Tailwind utilities, typeset in Lora + Inter from Google Fonts. Deployed on Vercel with live analytics. Reading progress persists via localStorage — no accounts, no tracking, no friction.
+#### Languages & Core
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,solidity,html,css&perline=8&theme=dark" alt="Languages" />
+</a>
 
----
+<br/>
 
-## Tech Stack
+#### Frontend & UI
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,threejs,figma&perline=8&theme=dark" alt="Frontend" />
+</a>
 
-**Languages**
+<br/>
 
-TypeScript • JavaScript • SQL
+#### Backend, Infrastructure & Tools
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,docker,vercel,postman,git,github&perline=9&theme=dark" alt="Backend & Tools" />
+</a>
 
-**Frontend**
+<br/>
 
-React • Next.js • Vite • Tailwind CSS
+#### AI & Protocols
+```
+AI / LLMs:    OpenAI API, Google Gemini, Anthropic Claude, LangChain, RAG, Prompt Engineering
+Web3:         Solana, Web3.js, EVM, Smart Contracts, Prediction Markets
+```
 
-**Backend**
-
-Node.js • Supabase • PostgreSQL • Edge Functions
-
-**AI**
-
-OpenAI • Groq • Claude • AI Agents • RAG • Workflow Automation
-
-**Web3**
-
-Solana • Wallet Adapter • Metaplex • Helius • Smart Contracts
-
-**Infrastructure**
-
-Vercel • Cloudflare • GitHub Actions
+</div>
 
 ---
 
-## Currently Exploring
+### Featured Projects
 
-- AI agent ecosystems
-- Solana program development
-- Distributed systems
-- Consumer AI products
-- Crypto market intelligence
-- Product-led growth
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Mirha & Co</h3>
+      <p align="center"><b><a href="https://mirhaandco.com">mirhaandco.com</a></b></p>
+      <p>AI-powered beauty and wellness platform focused on personalized skincare education, dynamic product discovery, and intelligent algorithmic recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_APIs-8A2BE2?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Trinity World News</h3>
+      <p align="center"><b><a href="https://github.com/habibixyz/trinity-news">github.com/habibixyz/trinity-news</a></b></p>
+      <p>Real-time AI-powered global news intelligence cockpit featuring 3D globe visualization, real-time market feeds, live radio audio streams, and automated AI synthesis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js" />
+        <img src="https://img.shields.io/badge/AI_Copilot-indigo?style=flat-square" />
+        <img src="https://img.shields.io/badge/Real--Time-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Audio_Engine-F59E0B?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Solchat</h3>
+      <p align="center"><b><a href="https://solchat.fun">solchat.fun</a></b></p>
+      <p>Decentralized communication protocol on Solana that enables on-chain cryptographic identity and pay-to-message direct conversations with integrated AI assistants.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square" />
+        <img src="https://img.shields.io/badge/Real--Time_Sockets-000?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">GoalRush</h3>
+      <p align="center"><b><a href="https://goalrush.fun">goalrush.fun</a></b></p>
+      <p>Gamified football prediction platform where users forecast matches, compete on global leaderboards, and participate in blockchain-powered prediction pools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/X_Layer_Chain-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Connect
+### GitHub Analytics
 
-Website: https://mirhaandco.com
+<div align="center">
 
-X: https://twitter.com/ritmir11
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/habibixyz">
+          <img src="https://github-readme-stats.vercel.app/api?username=habibixyz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/habibixyz">
+          <img src="https://streak-stats.demolab.com/?user=habibixyz&theme=tokyonight&hide_border=true&background=0d1117&ring=60a5fa&fire=60a5fa&currStreakNum=60a5fa" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-GitHub: https://github.com/habibixyz
+  <br/>
 
-Location: Mumbai, India
+  <a href="https://github.com/habibixyz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibixyz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=94a3b8" alt="Top Languages" />
+  </a>
+
+</div>
 
 ---
 
-## Philosophy
+### Contribution Activity
 
-> Build products. Ship often. Iterate relentlessly.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/habibixyz/habibixyz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
 
-The best way to learn is by building real products, talking to users, and improving every day.
+<details>
+<summary><b>Contribution Snake GitHub Action Workflow</b></summary>
+<br>
+
+Place in `.github/workflows/snake.yml` inside the repository:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: habibixyz
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#60a5fa&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+### Connect
+
+<div align="center">
+
+  <a href="https://vyrm.space">
+    <img src="https://img.shields.io/badge/Writing-vyrm.space-1E293B?style=for-the-badge&logoColor=white" alt="Blog" />
+  </a>
+  &nbsp;
+  <a href="https://mirhaandco.com">
+    <img src="https://img.shields.io/badge/Venture-Mirha_%26_Co-8B5CF6?style=for-the-badge&logoColor=white" alt="Mirha" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/habibixyz">
+    <img src="https://img.shields.io/badge/GitHub-habibixyz-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,12,6,0,24&height=100&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
