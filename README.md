@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,12,6,0,24&height=220&section=header&text=Tanvir%20Khan&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI-Native%20Full%20Stack%20Engineer%20%7C%20Founder%20%40%20Mirha%20%26%20Co.&descSize=19&descAlignY=62" width="100%" alt="Tanvir Khan - Header Banner" />
+  <!-- Native Animated Header Banner -->
+  <a href="https://github.com/habibixyz">
+    <img src="./header.svg" width="100%" alt="Tanvir Khan - Header Banner" />
+  </a>
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/habibixyz">
@@ -159,57 +161,6 @@ Web3:         Solana, Web3.js, EVM, Smart Contracts, Prediction Markets
 
 ---
 
-### Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/habibixyz/habibixyz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
-
-<details>
-<summary><b>Contribution Snake GitHub Action Workflow</b></summary>
-<br>
-
-Place in `.github/workflows/snake.yml` inside the repository:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: habibixyz
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#60a5fa&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
 ### Connect
 
 <div align="center">
@@ -228,7 +179,7 @@ jobs:
 
   <br/><br/>
 
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,12,6,0,24&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <!-- Native Animated Footer Banner -->
+  <img src="./footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
