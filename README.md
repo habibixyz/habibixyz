@@ -2,7 +2,7 @@
 
   <!-- Native Animated Header Banner -->
   <a href="https://github.com/habibixyz">
-    <img src="./header.svg" width="100%" alt="Tanvir Khan - Header Banner" />
+    <img src="https://raw.githubusercontent.com/habibixyz/habibixyz/main/header.svg" width="100%" alt="Tanvir Khan - Header Banner" />
   </a>
 
   <!-- Animated Typing SVG -->
@@ -180,6 +180,6 @@ Web3:         Solana, Web3.js, EVM, Smart Contracts, Prediction Markets
   <br/><br/>
 
   <!-- Native Animated Footer Banner -->
-  <img src="./footer.svg" width="100%" alt="Footer Banner" />
+  <img src="https://raw.githubusercontent.com/habibixyz/habibixyz/main/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
